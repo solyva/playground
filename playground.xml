@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<Context
+        docBase="/home/castle/workspace/playground/target/playground-1.0-SNAPSHOT"
+        reloadable="false"
+        path="/playground"/>-->
+
+
+<Context docBase="/home/castle/work/prtool/dist/liferay-portal-6.2-ce-ga6/tomcat-7.0.62/webapps/playground"
+         reloadable="true"
+         path="/playground"/>
