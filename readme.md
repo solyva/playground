@@ -1,6 +1,8 @@
 
 [[Link to local page|wiki/child-page]]
 
+[[Link to sibling|sibling-page]]
+
 ## Notes
 
  * [IntelliJ IDEA: Running a shell script as a Run/Debug Configuration](
