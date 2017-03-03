@@ -1,5 +1,6 @@
 
 [[Link to local page|wiki/child-page]]
+[[Link to local page|child-page]]
 
 [[Link to sibling|sibling-page]]
 
